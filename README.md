@@ -1,7 +1,7 @@
 # Building Cloud Computing Solutions at Scale
 
 
-[Building Cloud Computing Solutions at Scale](https://www.coursera.org/programs/axiata-sales-enterprise-academy-agb-b2wdr?currentTab=CATALOG&eoc=true&productId=QroLL3-XEeu17gr5PLNEuQ&productType=s12n&showMiniModal=true)
+[Coursera - Building Cloud Computing Solutions at Scale](https://www.coursera.org/programs/axiata-sales-enterprise-academy-agb-b2wdr?currentTab=CATALOG&eoc=true&productId=QroLL3-XEeu17gr5PLNEuQ&productType=s12n&showMiniModal=true)
 
 Offered by: Duke University
 

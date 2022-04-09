@@ -2,6 +2,8 @@
 
 ## Week 1
 
+[Cloud Computing for Data - Chapter 1](https://paiml.com/docs/home/books/cloud-computing-for-data/chapter01-getting-started/#effective-async-technical-discussions)
+
 ### Create a free account with AWS, Azure and GCP
 
 * Before we dive into the foundations of Cloud computing, let's begin by accessing free tiers of AWS, Azure and GCP. 
@@ -41,3 +43,19 @@
     * [Real-time Amazon Stock Prediction Dash Application in AWS](https://github.com/PranavM98/Prediction-of-Stock-Prices---Dash-App)
     * [YouTube Caption Sentiment and Stock Comparison Architect](https://github.com/Cloblak/youtube_sentiment_stock_prediction)
     * [IMDB Data Analytics in GCP](https://github.com/DeanHuang-Git/imdb_analytics)
+
+___
+## Week 2
+
+### Cloud Computing Foundations
+
+___
+
+## Week 3
+
+### Exploring Cloud Onboarding
+
+#### Introduction to AWS Cloud Development
+
+[Cloud Onboarding with Amazon Web Services (AWS)](https://paiml.com/docs/home/books/cloud-computing-for-data/chapter01-getting-started/#aws-amazon-web-services)
+___
